@@ -3394,13 +3394,12 @@ input::-webkit-inner-spin-button {
   height: 50px !important;
   width: 50px !important;
 }
- .gs-error-box {
-  background: var(--danger-hover);
-  padding: 10px;
+.gs-error-box {
+  /* background: var(--danger-hover); */
+  /* padding: 10px; */
   display: flex;
   align-items: center;
-  margin-top: 10px;
-
+  margin-left: 2%;
   border: 1px solid transparent;
   color: var(--color-danger);
   border-radius: 5px;
