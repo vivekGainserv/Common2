@@ -1,6 +1,6 @@
 @font-face {
   font-family: "BRHendrix_Regular";
-  src: url("../Fonts/BRHendrix-Regular.ttf") format("truetype");
+  src: url(//db.onlinewebfonts.com/c/194988876aedd0655d2a1881c4b101bd?family=BRHendrix-Regular);
 }
 @font-face {
   font-family: "BRHendrix_Semi_Bold";
@@ -22,6 +22,7 @@
   font-family: "BRHendrix_Black";
   src: url("../Fonts/BRHendrix-Black.ttf") format("truetype");
 }
+/* @import url(//db.onlinewebfonts.com/c/194988876aedd0655d2a1881c4b101bd?family=BRHendrix-Regular); */
 
 :root {
   --color-primary: #866afb;
