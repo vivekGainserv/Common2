@@ -3394,3 +3394,24 @@ input::-webkit-inner-spin-button {
   height: 50px !important;
   width: 50px !important;
 }
+.gs-error-box {
+  background: var(--danger-bk-color);
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+
+  border: 1px solid transparent;
+  color: var(--danger-color);
+  border-radius: 5px;
+}
+.gs-success-box {
+  background: #d7f2dd;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  border: 1px solid transparent;
+  color: #24973d;
+  border-radius: 5px;
+}
