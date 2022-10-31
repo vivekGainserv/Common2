@@ -1,28 +1,8 @@
 @font-face {
   font-family: "BRHendrix_Regular";
-  src: url(//db.onlinewebfonts.com/c/194988876aedd0655d2a1881c4b101bd?family=BRHendrix-Regular);
+  src: url("https://cdn.jsdelivr.net/gh/vivekGainserv/Common2/BRHendrix-Regular.ttf")
+    format("truetype");
 }
-@font-face {
-  font-family: "BRHendrix_Semi_Bold";
-  src: url("../Fonts/BRHendrix-SemiBold.ttf") format("truetype");
-}
-@font-face {
-  font-family: "BRHendrix_Bold";
-  src: url("../Fonts/BRHendrix-Bold.ttf") format("truetype");
-}
-@font-face {
-  font-family: "BRHendrix_Light";
-  src: url("../Fonts/BRHendrix-Light.ttf") format("truetype");
-}
-@font-face {
-  font-family: "BRHendrix_Medium";
-  src: url("../Fonts/BRHendrix-Medium.ttf") format("truetype");
-}
-@font-face {
-  font-family: "BRHendrix_Black";
-  src: url("../Fonts/BRHendrix-Black.ttf") format("truetype");
-}
-/* @import url(//db.onlinewebfonts.com/c/194988876aedd0655d2a1881c4b101bd?family=BRHendrix-Regular); */
 
 :root {
   --color-primary: #866afb;
